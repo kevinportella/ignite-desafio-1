@@ -20,7 +20,7 @@ Clone the project and access the folder.
 
 ```bash
 $ git clone https://github.com/kevinportella/ignite-desafio-1
-$ cd NLW-06-Letmeask
+$ cd ignite-desafio-1
 ```
 
 To start it, follow the steps below: 
