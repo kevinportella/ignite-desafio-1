@@ -11,6 +11,7 @@ This project aims to create a list of tasks using the React concepts of state ma
 This project was developed with the following technologies: 
 
 - [React](https://reactjs.org)
+- [Sass](https://sass-lang.com)
 - [TypeScript](https://www.typescriptlang.org/)
 
 ## How to run:
