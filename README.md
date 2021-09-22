@@ -4,16 +4,13 @@
 
 ## About: 
 
-letmeask is an application developed during Next Level Week Together (NLW-06) offered by [Rocketseat]🚀.
-
-Letmeask is a site where questions can be created where other people who have access to the room can answer them. Suitable for content creators. 
+This project aims to create a list of tasks using the React concepts of state manipulation. 
 
 ## Technologies:
 
 This project was developed with the following technologies: 
 
 - [React](https://reactjs.org)
-- [Firebase](https://firebase.google.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 
 ## How to run:
@@ -21,7 +18,7 @@ This project was developed with the following technologies:
 Clone the project and access the folder.
 
 ```bash
-$ git clone https://github.com/kevinportella/NLW-06-Letmeask
+$ git clone https://github.com/kevinportella/ignite-desafio-1
 $ cd NLW-06-Letmeask
 ```
 
@@ -31,9 +28,8 @@ To start it, follow the steps below:
 $ yarn
 
 # Start the project 
-$ yarn start
+$ yarn dev
 ```
-This project has interaction with firebase.
 
 ## License:
 
